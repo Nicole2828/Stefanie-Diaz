@@ -14,7 +14,7 @@ int main(){
     if(hrtr>192)
         boni=subt*0.05;
     else
-        boni=subt*0.03;
+        boni=subt*0.3;
     tota=subt+boni;
     cout<<"El sub total es:\t"<<subt<<endl;
     cout<<"La bonifiacion es:\t"<<boni<<endl;
