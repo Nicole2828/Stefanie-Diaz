@@ -54,7 +54,7 @@ void registra(factura *p){
 	cin >> p->id;
     fflush(stdin);
  
-	cout << "           DECRIBA EL PRODUCTO: ";
+	cout << "           DESCRIBA EL PRODUCTO: ";
 	cin >> p->des;
 	cout << "           ESCRIBA LA CANTIDAD: ";
 	cin >> p->cant;
